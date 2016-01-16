@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,Lig
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/943.m3u8
+#EXTINF:-1,TRT1 HD
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,STARTV
+http://yayin5.canlitv.com:1935/live/startv/chunklist_w660917226.m3u8?
+#EXTINF:-1,SHOWTV HD
+http://mn-l.mncdn.com/showtv//showtv2/playlist.m3u8
+#EXTINF:-1,KANALD HD
+http://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&amp;live=true&amp;app=com.kanald&amp;min=0&amp;max=1250
+#EXTINF:-1,ATV HD
+http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
+#EXTINF:-1,FOXTV HD
+http://foxtv-i.mncdn.com/r_foxtv/foxtv3/chunklist_w1197003263.m3u8
+#EXTINF:-1,TV8 HD
+http://yayin6.canlitv.com:1935/live/tv8/chunklist_w1348996191.m3u8?
+#EXTINF:-1,TV2
+http://212.224.80.79//S2/HLS_LIVE/tv2/track_4_1000/playlist.m3u8?
