@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,Avrupa Ligi
+http://92.222.205.40:8080/superlig
+#EXTINF:-1, Lig TV
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/943.m3u8
