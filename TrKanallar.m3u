@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Deneme
+http://acabsw.doiptv.com/sky_sport_1/playlist.m3u8
 #EXTINF:-1,TRT1 HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,STARTV
