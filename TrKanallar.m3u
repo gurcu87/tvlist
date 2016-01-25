@@ -13,7 +13,11 @@ http://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd20
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
 #EXTINF:-1,FOXTV HD
 http://foxtv-i.mncdn.com/r_foxtv/foxtv3/chunklist_w1197003263.m3u8
-#EXTINF:-1,TV8 HD
-rtmp://$OPT:rtmp-raw=rtmp://strm-3.tr.medianova.tv/tv8/ playpath=tv8_live3 swfUrl=http://static.oroll.com/p.swf?v=18.75 pageUrl=http://www.tv8.com.tr/iyitelevizyon-webtv swfVfy=1 live=true
+#EXTINF:-1,HK:TV 8 @
+rtmp://188.40.139.202:1935/ek/_definst_/tv8.stream
+#EXTINF:-1,HK:TV 8@ SECENEK 2
+
+http://mn-l.mncdn.com/tv8/smil:tv8_live.smil/playlist.m3u8
+
 #EXTINF:-1,TV2
 http://212.224.80.79//S2/HLS_LIVE/tv2/track_4_1000/playlist.m3u8?
