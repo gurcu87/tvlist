@@ -14,6 +14,6 @@ http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
 #EXTINF:-1,FOXTV HD
 http://foxtv-i.mncdn.com/r_foxtv/foxtv3/chunklist_w1197003263.m3u8
 #EXTINF:-1,TV8 HD
-http://149.255.152.68/hls-live/livepkgr/tv8/tv8/tv8.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://strm-3.tr.medianova.tv/tv8/ playpath=tv8_live3 swfUrl=http://static.oroll.com/p.swf?v=18.75 pageUrl=http://www.tv8.com.tr/iyitelevizyon-webtv swfVfy=1 live=true
 #EXTINF:-1,TV2
 http://212.224.80.79//S2/HLS_LIVE/tv2/track_4_1000/playlist.m3u8?
