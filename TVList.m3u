@@ -3,3 +3,9 @@
 https://vegas-ov-u08.vmwes.cloud/hls/,xqx2o3piozokjiqbte7cjpaou4bgwsv6vkvd6jbqwluc4v26bnhnt2dd2bka,.urlset/master.m3u8
 #EXTINF:-1, M3GAN
 http://192.168.1.176:30001/file/7My7nUSm/video.ts
+#EXTINF:-1, Megan	
+http://192.168.1.176:30001/file/7My7nUSm/video.ts		
+#EXTINF:-1, Asker	
+http://192.168.1.176:30001/file/675uNPBn/video.ts		
+#EXTINF:-1, 	Asterix	
+http://192.168.1.176:30001/file/Ffjh4jxL/video.ts
