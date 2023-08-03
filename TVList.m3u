@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1, 65
-https://vegas-ov-u01.vmwes.cloud/hls/,xqx2oepynzokjiqbtgscjianuhz3m5rgrsfg2bd4vwqys46l2gl7eei3auqq,.urlset/master.m3u8
+https://vegas-ov-u08.vmwes.cloud/hls/,xqx2o3piozokjiqbte7cjpaou4bgwsv6vkvd6jbqwluc4v26bnhnt2dd2bka,.urlset/master.m3u8
 #EXTINF:-1, M3GAN
 http://192.168.1.176:30001/file/7My7nUSm/video.ts
